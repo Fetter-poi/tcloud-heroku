@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "===== Download Tcloud App ====="
-wget "https://github.com/Fetter-poi/tcloud-heroku/raw/master/tcloud.tgz" -O tcloud.tgz
+wget "https://github.com/438438/tcloud-heroku/raw/master/tcloud.tgz" -O tcloud.tgz
 
 echo "===== Unarchive App ====="
 mkdir tcloud
